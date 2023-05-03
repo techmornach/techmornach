@@ -1,13 +1,7 @@
 # Hello, I'm Taiwo Ifedayo Gabriel! 👋
-
-[![Profile Banner](https://example.com/banner.png)](https://your-website.com)
-
-Welcome to my GitHub profile! I'm a passionate software engineer with expertise in Python, JavaScript, Node.js, Express, Bootstrap, MongoDB, and many more technologies. I love building robust and scalable applications that solve real-world problems. My goal is to continually expand my knowledge and contribute to the open-source community.
-# Taiwo Ifedayo Gabriel
-
 👨‍💻 Software Engineer | 🌍 Explorer | 🚀 Innovator
 
-Welcome to my GitHub profile! I'm Taiwo Ifedayo Gabriel, a passionate software engineer with expertise in Python, JavaScript, Node.js, Express, Bootstrap, MongoDB, and more. I love creating robust and scalable applications that solve real-world problems.
+Welcome to my GitHub profile! I'm Taiwo Ifedayo Gabriel, a passionate software engineer with expertise in Python, JavaScript, Node.js, Express, Bootstrap, MongoDB, and more. I love creating robust and scalable applications that solve real-world problems. My goal is to continually expand my knowledge and contribute to the open-source community.
 
 🌟 **Highlights** 🌟
 - 💼 Professional experience in building web applications using cutting-edge technologies.
