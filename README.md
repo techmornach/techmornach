@@ -1,7 +1,7 @@
 # Hi there, I'm Taiwo Ifedayo Gabriel! 👋
 
 <p align='center'>
-  <img src='https://i.imgur.com/O2xgSd4.gif' alt='header'>
+  <img src='https://i.ibb.co/Y8dF9Mn/about.png' alt='header'>
 </p>
 
 I'm a Software Engineer, Explorer, and Innovator with expertise in Python, JavaScript, Node.js, Express, Bootstrap, MongoDB, and more. I love creating robust and scalable applications that solve real-world problems. My goal is to continually expand my knowledge and contribute to the open-source community.
