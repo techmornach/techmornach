@@ -57,15 +57,9 @@ Visit my blog [here](https://omniteleos.onrender.com) to read my latest articles
 
 ## 🎯 Achievements
 
-- 🏆 Winner of Hackathon A, B, and C.
-- 🏅 Awarded the Best Tech Solution in Conference X.
-- 🎖️ Recognized as the Top Contributor of the Month in the open-source community.
 - 🎓 Completed multiple online courses and certifications on various programming languages and technologies.
 - 📈 Led a team of developers in successfully delivering a complex web application for a large enterprise client.
-- 🎉 Organized and hosted a tech conference attended by over 500 industry professionals.
-- 📊 Developed and implemented a data analytics solution for a healthcare company that resulted in a 25% increase in efficiency.
 - 🌟 Received positive feedback from clients and team members for my excellent communication skills and ability to collaborate effectively.
-- 🏅 Participated in several coding competitions and achieved high rankings, including a top 10% finish in Google Code Jam.
 ## 💻 Technologies and Tools
 
 I'm proficient in a variety of programming languages, frameworks, and tools. Here are some of the ones I'm most experienced with:
