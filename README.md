@@ -37,7 +37,7 @@ I'm a Software Engineer, Explorer, and Innovator with expertise in Python, JavaS
 Here are a few projects I've worked on:
 
 - 🌟 **Omniteleos:** A freelancing Company Made to provide solutions to brands and businesses \
-  <img src='<https://i.ibb.co/R3jgjkd/omniteleos.png' alt='Omniteleos' width='600' height='300'>
+  <img src='https://i.ibb.co/R3jgjkd/omniteleos.png' alt='Omniteleos' width='600' height='300'>
 - 🌟 **Luvable BabyCare Stores:** Ecommerce Site for Luvable BabyCare Stores made using express.js and mongodb \
   <img src='https://i.ibb.co/p0jP3st/luvable-Commerce.png' alt='Luvable E-commerce' width='600' height='300'>
 
