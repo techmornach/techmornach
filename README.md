@@ -36,12 +36,10 @@ I'm a Software Engineer, Explorer, and Innovator with expertise in Python, JavaS
 
 Here are a few projects I've worked on:
 
-- 🌟 **Project 1:** Brief description and link to the project. \
-  <img src='https://i.imgur.com/p3K55jN.gif' alt='project1' width='600' height='300'>
-- 🌟 **Project 2:** Brief description and link to the project. \
-  <img src='https://i.imgur.com/7eMnEJc.gif' alt='project2' width='600' height='300'>
-- 🌟 **Project 3:** Brief description and link to the project. \
-  <img src='https://i.imgur.com/mbX0b2j.gif' alt='project3' width='600' height='300'>
+- 🌟 **Omniteleos:** A freelancing Company Made to provide solutions to brands and businesses \
+  <img src='<https://i.ibb.co/R3jgjkd/omniteleos.png' alt='Omniteleos' width='600' height='300'>
+- 🌟 **Luvable BabyCare Stores:** Ecommerce Site for Luvable BabyCare Stores made using express.js and mongodb \
+  <img src='https://i.ibb.co/p0jP3st/luvable-Commerce.png' alt='Luvable E-commerce' width='600' height='300'>
 
 Feel free to explore my GitHub repositories for more projects and code samples. Each project showcases different aspects of my skills and highlights my commitment to quality and innovation.
 
@@ -55,7 +53,7 @@ I enjoy sharing my knowledge and experiences through my personal blog. Some of t
 - 📚 Database management and optimization
 - 📚 UI/UX design principles
 
-Visit my blog [here](https://your-blog.com) to read my latest articles and gain insights into the world of software engineering.
+Visit my blog [here](https://omniteleos.onrender.com) to read my latest articles and gain insights into the world of software engineering.
 
 ## 🎯 Achievements
 
@@ -76,7 +74,6 @@ I'm proficient in a variety of programming languages, frameworks, and tools. Her
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ### Frameworks and Libraries
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -88,73 +85,11 @@ I'm proficient in a variety of programming languages, frameworks, and tools. Her
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### Cloud Platforms
-![Amazon AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
-### DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Travis CI](https://img.shields.io/badge/Travis_CI-3EAAAF?style=for-the-badge&logo=travis-ci&logoColor=white)
 ### Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
-
-## 🚀 Projects
-
-Here are some of the projects that I have worked on:
-
-### Project 1: E-commerce website
-This was a full-stack project that I developed using the MERN stack. The website had features like user authentication, shopping cart, payment gateway integration, and admin dashboard.
-
-![E-commerce website](https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif)
-
-### Project 2: Social media platform
-This was a project that I worked on using the MERN stack. It was a social media platform that had features like creating posts, commenting on posts, liking posts, and following other users.
-
-![Social media platform](https://media.giphy.com/media/3oEjI1erPMTMBFmNHi/giphy.gif)
-
-### Project 3: Online quiz application
-This was a project that I developed using React and Node.js. It was an online quiz application that allowed users to take quizzes on various topics and track their scores.
-
-![Online quiz application](https://media.giphy.com/media/l0Iyh1zFAO9o2dGZG/giphy.gif)
-
-## 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=dracula)
-
-## Projects
-
-Here are a few selected projects I've worked on:
-
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| [Project 1](https://github.com/yourusername/project1) | Brief description of the project. | Python, Flask, PostgreSQL, HTML/CSS |
-| [Project 2](https://github.com/yourusername/project2) | Brief description of the project. | React, Node.js, MongoDB, Sass |
-| [Project 3](https://github.com/yourusername/project3) | Brief description of the project. | Django, MySQL, Bootstrap, JavaScript |
-
-Feel free to explore my GitHub repositories for more projects and code samples. Each project showcases different aspects of my skills and highlights my commitment to quality and innovation.
-
-## Blog
-
-I enjoy sharing my knowledge and experiences through my personal blog. Some of the topics I cover include:
-
-- Python and JavaScript best practices 
-- Web development tips and tricks 
-- Building scalable applications with Node.js and Express 
-- Database management and optimization 
-- UI/UX design principles
-
-Visit my blog [here](https://your-blog.com) to read my latest articles and gain insights into the world of software engineering.
 
 ## Open Source Contributions
 
@@ -181,7 +116,7 @@ I believe in maintaining a work-life balance and indulging in activities that br
 I'm always excited to connect with fellow developers, tech enthusiasts, and potential collaborators. Feel free to reach out to me through the following channels:
 
 - 📧 Email: [techmornach@gmail.com](mailto:techmornach@gmail.com) 
-- 🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile) 
+- 🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/tech-mornach) 
 - 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/TaiwoIfedayo4)
 
 Let's create amazing things together and make a positive impact in the world of software engineering! ✨
