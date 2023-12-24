@@ -43,7 +43,7 @@ I believe in maintaining a work-life balance and indulging in activities that br
 I'm always excited to connect with fellow developers, tech enthusiasts, and potential collaborators. Feel free to reach out to me through the following channels:
 
 - 📧 Email: [techmornach@gmail.com](mailto:techmornach@gmail.com) 
-- 🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/tech-mornach) 
-- 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/TaiwoIfedayo4)
+- 🔗 LinkedIn: [Connect with me on linkedin](https://www.linkedin.com/in/tech-mornach) 
+- 🐦 Twitter: [@TaiwoIfedayo4](https://twitter.com/TaiwoIfedayo4)
 
 Let's create amazing things together and make a positive impact in the world of software engineering! ✨
