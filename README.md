@@ -15,8 +15,6 @@ I'm a Software Engineer, with a passion for innovation. I love creating robust a
 - 👷‍♂️ **Software Architecture**
 - 🚀 **Other Tools and Technologies**
 
-## 🚀 Projects
-
 ## 📖 Blog
 
 I enjoy sharing my knowledge and experiences through my personal blog. Some of the topics I cover include:
