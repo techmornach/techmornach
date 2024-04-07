@@ -5,7 +5,7 @@ I'm a Software Engineer, with a passion for innovation. I love creating robust a
 ## 💻 Skills and Technologies
 
 - 🚀 **Programming**
-- 🌐 **Frameworks and Libraries Implemtation and Development**
+- 🌐 **Frameworks and Libraries Implementation and Development**
 - 💾 **Databases**
 - 🔧 **Web Technologies**
 - 🔀 **Version Control Systems**
@@ -26,7 +26,7 @@ I enjoy sharing my knowledge and experiences through my personal blog. Some of t
 - 📚 Database management and optimization
 - 📚 UI/UX design principles
 
-Visit my blog [here](https://techmornach.vercel.app) to read my latest articles and gain insights into the world of software engineering.
+Visit my blog [here](https://taiwoifedayo.com.ng) to read my latest articles and gain insights into the world of software engineering.
 
 ## Hobbies
 
@@ -42,8 +42,10 @@ I believe in maintaining a work-life balance and indulging in activities that br
 
 I'm always excited to connect with fellow developers, tech enthusiasts, and potential collaborators. Feel free to reach out to me through the following channels:
 
-- 📧 Email: [techmornach@gmail.com](mailto:techmornach@gmail.com) 
-- 🔗 LinkedIn: [Connect with me on linkedin](https://www.linkedin.com/in/tech-mornach) 
-- 🐦 Twitter: [@TaiwoIfedayo4](https://twitter.com/TaiwoIfedayo4)
+- 📧 Email: [techmornach@gmail.com](mailto:taiwoifedayogabriel@gmail.com) 
+- 🔗 LinkedIn: [Connect with me on linkedin](https://www.linkedin.com/in/techmornach) 
+- 🐦 Twitter: [@TaiwoIfedayo4](https://twitter.com/taiwoifedayo4)
 
 Let's create amazing things together and make a positive impact in the world of software engineering! ✨
+
+
